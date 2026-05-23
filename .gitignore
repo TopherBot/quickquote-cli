@@ -1,0 +1,13 @@
+/bin/
+/.DS_Store
+/vendor/
+*.exe
+*.log
+*.out
+*.tmp
+*.swp
+# Go specific
+/go.sum
+/go.mod
+/.idea/
+/.vscode/
